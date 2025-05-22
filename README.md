@@ -211,10 +211,9 @@ flutter run
 - Builds supportive networks and raises mental health awareness
 
 ## 👥 Team TechWizard
-
-- **Sanjeev Ratnani** (sanjeev.ratnani22@spit.ac.in) - Full Stack App Developer
+- **Muskan Sharma** (muskan.sharma22@spit.ac.in)- Flutter Developer and Backend Developer
+- **Sanjeev Ratnani** - Full Stack App Developer
 - **Heenal Patel** - UX Designer and Flutter Developer
-- **Muskan Sharma** - Flutter Developer and Backend Developer
 - **Prathamesh Sanaye** - Full Stack App Developer
 
 ## 🏫 Institution
